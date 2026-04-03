@@ -276,7 +276,7 @@ export default function Home() {
           </div>
           <p className="text-gray-400 text-lg">
             © 2025 <span className="text-cyan-400 font-bold">MICHAEL PLYMIRE</span>. 
-            Crafted with <span className="text-red-400">⚡</span> Next.js & Tailwind CSS.
+            Building innovative digital experiences.
           </p>
         </div>
       </footer>
